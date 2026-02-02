@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Tekitiz'
+title: 'Accueil'
 ---
 
 # Hello World

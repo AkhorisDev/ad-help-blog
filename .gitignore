@@ -3,3 +3,11 @@ npm-debug.*
 *.log
 .DS_Store
 public
+package-lock.json
+src/images/android-chrome-192x192.png:Zone.Identifier
+src/images/android-chrome-512x512.png:Zone.Identifier
+src/images/apple-touch-icon.png:Zone.Identifier
+src/images/favicon-16x16.png:Zone.Identifier
+src/images/favicon-32x32.png:Zone.Identifier
+src/images/favicon.ico:Zone.Identifier
+src/images/site.webmanifest:Zone.Identifier

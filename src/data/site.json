@@ -1,10 +1,10 @@
 {
   "name": "Tekitiz",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "url": "https://ad-help-blog.netlify.app",
   "author": {
     "name": "Hugo Akpakoun",
-    "email": "author@site.com",
+    "email": "hugo.akpakoun@tekitiz.com",
     "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",

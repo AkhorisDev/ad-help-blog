@@ -1,8 +1,8 @@
 ---
-title: About Aidan Charles Powell
+title: À propos de Tekitiz
 layout: about.njk
-name: Aidan Charles Powell
-image: '/images/me.jpeg'
+name: TEKITIZ.
+image: '/images/TEKITIZ_LOGO_V2.png'
 ---
 
 Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.

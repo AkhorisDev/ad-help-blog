@@ -117,6 +117,11 @@ module.exports = function (eleventyConfig) {
       });
   });
 
+  // Copie les favicons et le manifest à la racine du site
+  eleventyConfig.addPassthroughCopy("src/*.png");
+  eleventyConfig.addPassthroughCopy("src/*.ico");
+  eleventyConfig.addPassthroughCopy("src/site.webmanifest");
+
   return {
     dir: {
       input: 'src',

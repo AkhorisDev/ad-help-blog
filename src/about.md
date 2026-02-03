@@ -1,5 +1,5 @@
 ---
-title: À propos de Tekitiz
+title: À propos
 layout: about.njk
 name: TEKITIZ.
 image: '/images/TEKITIZ_LOGO_V2.png'

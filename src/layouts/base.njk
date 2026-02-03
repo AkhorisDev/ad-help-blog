@@ -142,6 +142,15 @@
       <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
        Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
         Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a>
+        <p class="footer__copyright">
+  © <span id="copyright-year"></span> {{ site.name }}. Tous droits réservés.
+</p>
+<script>
+  (function () {
+    var el = document.getElementById('copyright-year');
+    if (el) el.textContent = new Date().getFullYear();
+  })();
+</script>
             </p>
           {% endif %}
 
@@ -151,5 +160,14 @@
     </footer>
 
     {% bundledjs %}
+
+    <!--Service Worker-->
+    <script>
+      if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js').catch(err => {
+        console.log('Service Worker registration failed: ', err);
+      });
+      }
+    </script>
   </body>
 </html>

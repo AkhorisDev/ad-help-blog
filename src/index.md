@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Accueil'
+title: ''
 ---
 
 # Hello World

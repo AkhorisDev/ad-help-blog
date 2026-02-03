@@ -1,6 +1,10 @@
---- 
-layout: base.njk 
-permalink: /blog/ 
+---
+pagination:
+  data: collections.posts
+  alias: pageposts
+  size: 20
+layout: base.njk
+permalink: /blog{% if pagination.pageNumber %}/page-{{ pagination.pageNumber + 1 }}{% endif %}/
 ---
 
 <h1>All Posts</h1>
@@ -9,5 +13,23 @@ permalink: /blog/
   {% include "tags-list.njk" %}
 </div>
 
-{% set postslist = collections.posts %}
+{% set postslist = [] %}
+{% for post in pageposts %}
+  {% if "service" not in post.data.tags %}
+    {% set postslist = postslist.concat([post]) %}
+  {% endif %}
+{% endfor %}
 {% include "posts-list.njk" %}
+
+<!-- Pagination Navigation -->
+<nav class="pagination" style="margin-top: 3rem; text-align: center;">
+  {% if pagination.previousPageHref %}
+    <a href="{{ pagination.previousPageHref | url }}">← Previous</a>
+  {% endif %}
+  
+  <span style="margin: 0 1rem;">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+  
+  {% if pagination.nextPageHref %}
+    <a href="{{ pagination.nextPageHref | url }}">Next →</a>
+  {% endif %}
+</nav>

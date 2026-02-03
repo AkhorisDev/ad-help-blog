@@ -1,5 +1,5 @@
 {
-  "name": "Tekitiz",
+  "name": "TEKITIZ",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://ad-help-blog.netlify.app",
   "author": {
@@ -15,8 +15,18 @@
       "external": false
     },
     {
+      "text": "Services",
+      "url": "/tags/service/",
+      "external": false
+    },
+    {
       "text": "About",
       "url": "/about",
+      "external": false
+    },
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
       "external": false
     }
   ],
@@ -34,9 +44,19 @@
   ],
   "footerLinks": [
     {
-      "text": "RSS",
-      "url": "/feed.xml",
-      "external": true
+      "text": "Mentions Légales",
+      "url": "/legal-notice",
+      "external": false
+    },
+    {
+      "text": "Politique de Confidentialité",
+      "url": "/privacy-policy",
+      "external": false
+    },
+    {
+      "text": "Conditions Générales",
+      "url": "/terms-and-conditions",
+      "external": false
     }
   ],
   "showFooterAttribution": true

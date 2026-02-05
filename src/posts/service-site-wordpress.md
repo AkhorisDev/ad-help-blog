@@ -44,13 +44,12 @@ Un site qui s’adapte à tous les écrans (mobile, tablette, ordinateur) et qui
 On gère l’essentiel pour que vous soyez tranquille :
 
 1. **RGPD & bandeau cookies** : conforme et simple à gérer
+1. **Sauvegarde pour la résilience** : Inclus des archives pour relancer le site n'importe quand
 2. **Mentions légales & CGV** : intégration de vos textes obligatoires
 3. **Google Analytics** : suivez vos visiteurs sans effort
 4. **Bilingue FR/EN** : pour toucher plus large si besoin
 
 ## 3. Accompagnement & Logistique
-
-> "Je ne vous livre pas juste un site, je vous donne les clés et le mode d’emploi pour l’utiliser seul."
 
 - **Aide à l’hébergement** : conseils pour choisir nom de domaine et hébergeur au meilleur prix si nécessaire
 - **Session de formation** : 1 heure pour apprendre à changer textes, photos, etc.
@@ -88,6 +87,6 @@ Votre visibilité est à un clic. Faisons de votre site votre meilleur ambassade
 Contactez-moi pour une discussion gratuite sans engagement !
 
 Et voici d’autres exemples concrets que j’ai réalisés :
-- <a href="https://latelierdugenie.com/wordpress/" target="_blank" rel="noopener noreferrer">L’Atelier du Génie</a> – Vitrine mobiliers de luxe
+- <a href="https://latelierdugenie.com/wordpress/" target="_blank" rel="noopener noreferrer">L’Atelier du Génie</a> – Vitrine pour mobiliers de luxe
 - <a href="https://cbclabasket.com/" target="_blank" rel="noopener noreferrer">CBCLA Basket</a> – Organisateur de camp au US pour clubs de basket
 - <a href="http://www.cbclatravel-poc.free.nf/" target="_blank" rel="noopener noreferrer">CBCLA Travel</a> – Agence voyage US

@@ -15,7 +15,7 @@ Grâce à ce pack simple et rapide, vous réduisez considérablement les risques
 
 L’approche se déroule en quatre phases claires :
 
-## 1. Audit & Nettoyage (Le socle)
+## 1. Audit & Nettoyage
 
 Nous commençons par un état des lieux méthodique :
 
@@ -23,7 +23,7 @@ Nous commençons par un état des lieux méthodique :
 - **Hygiène des groupes** : application du principe du moindre privilège
 - **Nettoyage des administrateurs** : réduction des accès à haut risque
 
-## 2. Sécurisation Entra ID (Le bouclier)
+## 2. Sécurisation Entra ID
 
 Nous rendons votre Cloud beaucoup plus difficile à pénétrer :
 
@@ -52,7 +52,7 @@ Toutes ces mesures sont appliquées selon vos préférences. Vous décidez de ce
 | Gouvernance                  | Sans expertise IT          | Via une ESN/SSII                | Grâce au Pack « Sérénité »                  |
 |------------------------------|----------------------------|---------------------------------|---------------------------------------------|
 | **Coût estimé**              | 0 € (jusqu’au piratage)    | 1500 € à 3000 €+                | **549 € TTC (Early Adopter)**               |
-| **Sécurité (MFA)**           | Inexistant ou partiel      | Irréprochable mais Couteux| **Déploiement accompagné**                  |
+| **Sécurité (MFA)**           | Inexistant ou partiel      | Irréprochable mais couteux| **Déploiement accompagné**                  |
 | **Gestion des accès**        | Absente ou approximative   | Exellent mais chronophage         | **Mise en place précise et rapide**         |
 | **Autonomie**                | Livré à soi-même           | Dépendant d'un contrat maintenance  | **Livrables pour rester autonome**          |
 | **Délai d’exécution**        | Permanent                  | 1 à 2 semaines                  | **Flash : 2 à 3 jours**                     |

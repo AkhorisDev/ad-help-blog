@@ -18,7 +18,7 @@ layout: base.njk
 - Entreprise : TEKITIZ
 - Email : hugo.akpakoun@tekitiz.com
 - Téléphone : +33 6 69 39 10 03
-- Adresse : France
+- Entreprise domiciliée en France
 
 ## 3. Données personnelles collectées
 

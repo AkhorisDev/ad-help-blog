@@ -64,10 +64,23 @@
       ]
     },
     {
-      "name": "Services",
-      "short_name": "Services",
-      "description": "Voir nos services",
-      "url": "/tags/service/",
+      "name": "Envoyer mail",
+      "short_name": "Mail",
+      "description": "Envoyer un mail",
+      "url": "/mail",
+      "icons": [
+        {
+          "src": "/images/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp Message",
+      "short_name": "Whatsapp",
+      "description": "Envoyer un message Whatsapp",
+      "url": "/whatsapp",
       "icons": [
         {
           "src": "/images/android-chrome-192x192.png",

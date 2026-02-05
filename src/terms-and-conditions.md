@@ -1,17 +1,17 @@
 ---
-title: Conditions Générales d'Utilisation
+title: Conditions Générales de Vente
 layout: base.njk
 ---
 
-# Conditions Générales d'Utilisation
+# Conditions Générales de Vente
 
 **Dernière mise à jour :** février 2026
 
 ## 1. Objet et champ d'application
 
-Les présentes Conditions Générales d'Utilisation (CGU) régissent l'accès et l'utilisation du site web **TEKITIZ** (https://ad-help-blog.netlify.app) et des services de conseil en **Active Directory et Entra ID** proposés par Hugo Akpakoun, freelance basé en France.
+Les présentes Conditions Générales de vente (CGV) régissent l'accès et l'utilisation du site web **TEKITIZ** (https://ad-help-blog.netlify.app) et des services de conseil en **Active Directory et Entra ID** proposés par Hugo Akpakoun, freelance basé en France.
 
-Ces CGU s'appliquent à tous les visiteurs, lecteurs et clients potentiels du site. En accédant au site, vous acceptez l'intégralité de ces CGU.
+Ces CGV s'appliquent à tous les visiteurs, lecteurs et clients potentiels du site. En accédant au site, vous acceptez l'intégralité de ces CGV.
 
 ## 2. Définitions
 
@@ -154,7 +154,7 @@ Le Prestataire s'efforce de fournir des informations exactes et à jour, mais :
 
 ### 7.3 Utilisation du contenu
 
-L'Utilisateur utilise le contenu **à ses propres risques** :
+L'Utilisateur utilise le contenu **à ses propres risques** par conséquent il est de sa responsabilité de :
 - Tester en environnement non-productif avant application
 - Adapter les solutions à votre contexte spécifique
 - Consulter un professionnel pour votre situation
@@ -261,9 +261,9 @@ Bien que TEKITIZ apporte expertise en sécurité, le Client reste responsable de
 - Les tests de sécurité réguliers
 - La gestion des risques résiduels
 
-## 12. Modifications des CGU
+## 12. Modifications des CGV
 
-Le Prestataire se réserve le droit de modifier ces CGU à tout moment. Les modifications s'appliquent :
+Le Prestataire se réserve le droit de modifier ces CGV à tout moment. Les modifications s'appliquent :
 - Immédiatement pour les nouveaux clients
 - Avec un préavis de 30 jours pour les clients existants
 - Les clients qui refusent les modifications peuvent résilier leur contrat
@@ -322,13 +322,13 @@ Le site peut contenir des liens vers des sites externes. Le Prestataire :
 
 ### 15.2 Contenus tiers
 
-Les contenus publiés en partenariat ou provenant de tiers restent soumis aux CGU.
+Les contenus publiés en partenariat ou provenant de tiers restent soumis aux CGV.
 
 ## 16. Propriété intellectuelle et marques
 
 ### 16.1 Marques
 
-"TEKITIZ" et autres marques sont des marques commerciales. Leur utilisation sans autorisation est interdite.
+"TEKITIZ" est un nom commerciale. Son utilisation sans autorisation est interdite.
 
 ### 16.2 Marques tierces
 
@@ -338,11 +338,11 @@ Les références à Microsoft, Active Directory, Entra ID, Azure sont des marque
 
 ### 17.1 Droit applicable
 
-Ces CGU sont régies par le **droit français**. Tout litige sera soumis à la juridiction compétente en France.
+Ces CGV sont régies par le **droit français**. Tout litige sera soumis à la juridiction compétente en France.
 
 ### 17.2 Langue
 
-Ces CGU sont rédigées en français. Toute traduction est fournie à titre informatif uniquement.
+Ces CGV sont rédigées en français. Toute traduction est fournie à titre informatif uniquement.
 
 ### 17.3 Légalité
 
@@ -353,7 +353,7 @@ Si une clause est jugée illégale, elle sera modifiée minimalement pour être 
 ### 18.1 Abus de service
 
 Le Prestataire se réserve le droit de suspendre ou résilier l'accès en cas de :
-- Violation des CGU
+- Violation des CGV
 - Tentatives de piratage ou abus
 - Comportement abusif ou menaçant
 - Violation de propriété intellectuelle
@@ -388,7 +388,7 @@ En cas de non-résolution :
 
 ### 20.1 Intégralité de l'accord
 
-Ces CGU, accompagnées de la Politique de Confidentialité et des contrats spécifiques, constituent l'accord complet entre les parties.
+Ces CGV, accompagnées de la Politique de Confidentialité et des contrats spécifiques, constituent l'accord complet entre les parties.
 
 ### 20.2 Autonomie des clauses
 
@@ -400,11 +400,11 @@ L'absence d'application d'une clause ne signifie pas sa renonciation.
 
 ### 20.4 Cessibilité
 
-Le Prestataire peut céder ses droits à un tiers professionnel. L'Utilisateur/Client reste lié par les CGU.
+Le Prestataire peut céder ses droits à un tiers professionnel. L'Utilisateur/Client reste lié par les CGV.
 
 ---
 
 **Dernière mise à jour :** février 2026  
 **Prochaine révision :** août 2026  
 
-En accédant et utilisant ce site, vous acceptez intégralement les présentes Conditions Générales d'Utilisation.
+En accédant et utilisant ce site, vous acceptez intégralement les présentes Conditions Générales de Vente.

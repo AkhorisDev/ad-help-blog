@@ -2,12 +2,12 @@
 pagination:
   data: collections.posts
   alias: pageposts
-  size: 20
+  size: 21
 layout: base.njk
 permalink: /blog{% if pagination.pageNumber %}/page-{{ pagination.pageNumber + 1 }}{% endif %}/
 ---
 
-<h1>All Posts</h1>
+<h1>Tous les posts</h1>
 
 <div class="tags">
   {% include "tags-list.njk" %}
@@ -24,12 +24,12 @@ permalink: /blog{% if pagination.pageNumber %}/page-{{ pagination.pageNumber + 1
 <!-- Pagination Navigation -->
 <nav class="pagination" style="margin-top: 3rem; text-align: center;">
   {% if pagination.previousPageHref %}
-    <a href="{{ pagination.previousPageHref | url }}">← Previous</a>
+    <a href="{{ pagination.previousPageHref | url }}">← Précédent</a>
   {% endif %}
   
-  <span style="margin: 0 1rem;">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+  <span style="margin: 0 1rem;">Page {{ pagination.pageNumber + 1 }} sur {{ pagination.pages.length }}</span>
   
   {% if pagination.nextPageHref %}
-    <a href="{{ pagination.nextPageHref | url }}">Next →</a>
+    <a href="{{ pagination.nextPageHref | url }}">Suivant →</a>
   {% endif %}
 </nav>

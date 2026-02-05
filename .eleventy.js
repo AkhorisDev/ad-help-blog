@@ -17,9 +17,9 @@ const manifestPath = path.resolve(
 
 const manifest = isDev
   ? {
-      'main.js': '/assets/main.js',
-      'main.css': '/assets/main.css',
-    }
+    'main.js': '/assets/main.js',
+    'main.css': '/assets/main.css',
+  }
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
 
 module.exports = function (eleventyConfig) {
@@ -62,13 +62,13 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('readableDate', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
+    return DateTime.fromJSDate(dateObj, { zone: 'utc', locale: 'fr' }).toFormat(
       'dd LLL yyyy'
     );
   });
 
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
+    return DateTime.fromJSDate(dateObj, { zone: 'utc', locale: 'fr' }).toFormat('yyyy-LL-dd');
   });
 
   eleventyConfig.addFilter('dateToIso', (dateString) => {

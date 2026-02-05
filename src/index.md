@@ -3,6 +3,6 @@ layout: home
 title: ''
 ---
 
-# Hello World
+# Bonjour le monde !
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Bienvenue chez Tekitiz, le blog d'un enthousiaste convaincu que la gestion numérique des PME/TPE, associations et petites structures doit rester simple, fluide et sûre.

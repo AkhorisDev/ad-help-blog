@@ -1,14 +1,12 @@
 ---
 title: À propos
 layout: about.njk
-name: TEKITIZ.
+name: TEKITIZ
 image: '/images/TEKITIZ_LOGO_V2.png'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+Derrière ce blog se cache un freelance passionné par la clarté numérique et l’accessibilité technique. Mon approche est simple : offrir aux TPE/PME, associations et petites structures des solutions de pointe jusqu'ici réservées aux grands groupes.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+Avec mon expérience pragmatique dans la maîtrise des accès, la sécurisation des comptes et la mise en place d'environnements de travail connectés, ainsi qu'en développement (sites internet, scripts d'automatisation et applications web), j'élimine les obstacles pour me concentrer sur l'essentiel : établir des certitudes dans un monde technologique qui semble parfois en manquer.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+Me faire confiance, c'est choisir des interventions simples et rapides, des tarifs transparents et une proximité constante pour faire prospérer votre espace de travail en toute sérénité.
